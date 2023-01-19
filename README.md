@@ -4,7 +4,7 @@
 
 Laravel 8 pepustakaan dibuat oleh :
 
-- Github : <a href="https://github.com/fandi150"> Fandi</a>
+- Github : <a href="https://github.com/fandi1510"> Fandi</a>
 
 
 ## Fitur 

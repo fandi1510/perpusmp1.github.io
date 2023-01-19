@@ -4,8 +4,8 @@
 
 Laravel 8 pepustakaan dibuat oleh :
 
-- Github : <a href="https://github.com/musyahya"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
+- Github : <a href="https://github.com/fandi150"> Fandi</a>
+
 
 ## Fitur 
 
@@ -125,4 +125,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 Musyahya.
+- Copyright © 2022 Fandi.
